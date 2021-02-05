@@ -6,5 +6,9 @@ Js로 크롬 앱 만들기
 * 위치에 따른 날씨
 * To-Do list
 
+## 기능 
+<img src="C:\Users\배정원\Desktop\study\JavaScript\Js로 크롬 앱 만들기\1.jpg" width="40%" height="30%"></img>
+<img src="C:\Users\배정원\Desktop\study\JavaScript\Js로 크롬 앱 만들기\2.jpg" width="40%" height="30%"></img>
+
 ## Try-it! 
 https://baegarden.github.io/JsProject-1/
