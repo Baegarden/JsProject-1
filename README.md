@@ -7,9 +7,8 @@ Js로 크롬 앱 만들기
 * To-Do list
 
 ## 사진 
-![Alt text](C:\Users\배정원\Desktop\study\JavaScript\Js로 크롬 앱 만들기\1.jpg)
-<img src="C:\Users\배정원\Desktop\study\JavaScript\Js로 크롬 앱 만들기\1.jpg" width="40%" height="30%"></img>
-<img src="C:\Users\배정원\Desktop\study\JavaScript\Js로 크롬 앱 만들기\2.jpg" width="40%" height="30%"></img>
+![1](https://user-images.githubusercontent.com/76520025/107036363-e23cff80-67fc-11eb-98e0-7528bd421b12.JPG)
+![2](https://user-images.githubusercontent.com/76520025/107036373-e6691d00-67fc-11eb-9d78-40cd5d2c1684.JPG)
 
 ## Try-it! 
 https://baegarden.github.io/JsProject-1/
